@@ -1,6 +1,6 @@
 # cem-plugin-template
 
-This is a starter repository to easily get set up to write custom plugins for [@custom-elements-manifest/analyzer](https://github.com/open-wc/custom-elements-manifest).
+This is a starter repository to easily get set up to write custom plugins for [@custom-elements-manifest/analyzer](https://github.com/open-wc/custom-elements-manifest). For more information on authoring custom plugins, see the [authoring plugins documentation](https://github.com/open-wc/custom-elements-manifest/blob/master/packages/analyzer/docs/plugins.md).
 
 ## Development
 
