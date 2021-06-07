@@ -8,7 +8,15 @@
     "start": "nodemon dev.js",
     "test": "uvu test"
   },
-  "keywords": [],
+  "keywords": [
+    "custom-elements",
+    "custom-elements-json",
+    "custom-elements-manifest",
+    "customelements",
+    "webcomponents",
+    "customelementsjson",
+    "customelementsmanifest"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
